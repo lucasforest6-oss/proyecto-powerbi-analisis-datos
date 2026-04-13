@@ -1,10 +1,10 @@
 # 📊 Proyecto de Análisis de Datos – Power BI
 
-Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI para analizar datos y obtener información relevante para la toma de decisiones.
+Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI para analizar un conjunto de datos y obtener información relevante para la toma de decisiones.
 
 ## 🎯 Objetivo
 
-Analizar un conjunto de datos para identificar tendencias, comportamientos y métricas clave que permitan entender mejor la información y facilitar decisiones basadas en datos.
+Analizar un conjunto de datos para identificar tendencias y patrones relevantes, permitiendo visualizar información clave y facilitar la toma de decisiones a partir de datos.
 
 ## 🔧 Herramientas utilizadas
 
@@ -20,9 +20,9 @@ Analizar un conjunto de datos para identificar tendencias, comportamientos y mé
 
 ## 📊 Principales insights
 
-- Identificación de patrones en los datos analizados  
-- Detección de variables relevantes para el análisis  
-- Visualización clara de métricas clave para la toma de decisiones  
+- Identificación de tendencias y comportamientos dentro del dataset  
+- Detección de métricas clave (KPIs) relevantes para el análisis  
+- Visualización de datos que permite interpretar la información de forma clara y rápida  
 
 ## 📊 Dashboard
 
