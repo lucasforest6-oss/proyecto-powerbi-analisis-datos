@@ -15,6 +15,9 @@ Dashboard de análisis de datos desarrollado en Power BI.
 ## 📊 Dashboard
 
 ![Dashboard](Captura de pantalla (1).png)
+
 ![Grafico](Captura de pantalla (2).png)
+
 ![KPIs](Captura de pantalla (3).png)
+
 ![Vista adicional](Captura de pantalla (4).png)
